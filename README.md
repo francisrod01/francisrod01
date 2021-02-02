@@ -43,6 +43,14 @@ ______
 
 [![ReadMe Card][5]](https://github.com/francisrod01/wrangling_mongodb)
 
+### CodersRank stats
+
+[![Summary widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=francisrod01&show-header=true)](http://bit.ly/2Ph9JUo)
+
+![Skills chart widget](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=&username=francisrod01&show-other-skills=true&bg=fff&width=820&padding=10)
+
+![Portifolio widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=francisrod01&dates=false&width=820&height=320&logos=false&style=--item-bg-color:%23fff;--item-border-radius:2px;--item-padding:10px)
+
 [1]: https://github-readme-stats.vercel.app/api/pin/?username=algolia&repo=react-instantsearch
 [2]: https://github-readme-stats.vercel.app/api/pin/?username=ilkeraltin&repo=react-ssr-news
 [3]: https://github-readme-stats.vercel.app/api/pin/?username=francisrod01&repo=nodejs-unit-testing-in-depth
