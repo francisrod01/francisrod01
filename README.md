@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a Management project for sightseeing tours by boat, using a FAAN stack (Firebase, Algolia, Angular, Node.js)
+- 🌱 I’m currently learning more about Node.js and IoT, Machine Learning, DevOps and GCP.
+- 📫 How to reach me: http://bit.ly/2rP1Ecn
