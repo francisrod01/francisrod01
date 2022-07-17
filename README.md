@@ -1,24 +1,31 @@
-## Hi there 👋 I'm Francis Rodrigues
-### Software Developer from Brazil with 5+ years with Full Stack applications
-I also write articles on [Medium.com](https://francisrod01.medium.com/)
+### Hi 👋, I'm Francis, a Software Engineer, AI & Machine Learning enthusiast.
+#### Collaborating on tools that support 4M+ concurrent users.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=francisrod01)
+A proven track record with exposure to both front and back-end development:
 
-#### Social profiles:
+* 🔭 5+ years of experience coding with Docker, React, Angular, Node.js and CI/CD deployment.
+* Experience testing using Mocha, Cypress and Enzyme.
+* 🌱 Currently learning Machine Learning with Python, using tools like Tensorflow and OpenCV.
 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/francisrod01/im-a-cm-b.svg)](https://www.codementor.io/@francisrod01?refer=badge)
+**"Goal to build amazing tools in LifeSciences, Environment, Agriculture, IoT, Streaming, and more."**
 
-![[Linkedin profile](http://bit.ly/2rP1Ecn)](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)
+### Social activities
 
-![Twitter Follow](https://img.shields.io/twitter/follow/francisrod01?label=Twitter&style=social)
+* [![Contact me on Codementor](https://www.codementor.io/m-badges/francisrod01/im-a-cm-b.svg)][3]
+* Follow my current learning path on [![Linkedin profile](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)][2]
+* Weekly building amazing projects on [**Github**][1] [![GitHub followers](https://img.shields.io/github/followers/francisrod01?style=social)][1]
+* 📫 Check out my latest articles on [Medium.com](https://francisrod01.medium.com/)
 
-![GitHub followers](https://img.shields.io/github/followers/francisrod01?style=social)
+### Better score and contributors:
 
-#### Better score and contributors:
-
-![Github workflow](https://github.com/francisrod01/ng-vessels/workflows/CI/badge.svg?branch=main)
-![GitHub contributors](https://img.shields.io/github/contributors/francisrod01/js-zoom-clone?label=js-zoom-clone&logo=github)
-![GitHub contributors](https://img.shields.io/github/contributors/francisrod01/RNwithoutExpo?label=RNwithoutExpo&logo=react)
+* Angular boat renting ![Github workflow](https://github.com/francisrod01/ng-vessels/workflows/CI/badge.svg?branch=main)
+* JS Zoom clone ![GitHub contributors](https://img.shields.io/github/contributors/francisrod01/js-zoom-clone?label=js-zoom-clone&logo=github)
+* ReactNative without Expo ![GitHub contributors](https://img.shields.io/github/contributors/francisrod01/RNwithoutExpo?label=RNwithoutExpo&logo=react)
+* React Material UI [![Github contributors](https://img.shields.io/github/contributors/mui/material-ui?label=MaterialUI&logo=react)][10]
+* Python & MongoDB [![Github contributors](https://img.shields.io/github/contributors/francisrod01/wrangling_mongodb?label=Python_MongoDB&logo=python)][11]
+* Angular commerce [![Angular commerce app](https://img.shields.io/github/contributors/francisrod01/ng-commerce-app?label=Angular_commerce&logo=angular)][12]
+* SSR for React [![SSR for React](https://img.shields.io/github/contributors/ilkeraltin/react-ssr-news?label=ReactSSR_news&logo=react)][13]
+* React GraphQL w/ Apollo [![React GraphQL w/ Apollo client](https://img.shields.io/github/contributors/francisrod01/react-graphql-with-apollo-client?label=ReactGraphqlApollo&logo=react)][14]
 
 <!--
 **francisrod01/francisrod01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,24 +42,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a Booking software for boat rides, using a FAAN stack (Firebase, Algolia, Angular, Node.js)
-- 🌱 I’m currently learning more about Node.js and IoT, Machine Learning, DevOps and GCP.
-- 📫 How to reach me: https://community.arc.dev/user/francisrod01
-
-### OpenSource projects that I contribute
-
-[![ReadMe Card][1]](https://github.com/algolia/react-instantsearch)
-
-[![ReadMe Card][2]](https://github.com/ilkeraltin/react-ssr-news)
-
-[![ReadMe Card][3]](https://github.com/francisrod01/nodejs-unit-testing-in-depth)
-
-[![ReadMe Card][4]](https://github.com/francisrod01/RNwithoutExpo)
-
-[![ReadMe Card][5]](https://github.com/francisrod01/wrangling_mongodb)
-
-[1]: https://github-readme-stats.vercel.app/api/pin/?username=algolia&repo=react-instantsearch
-[2]: https://github-readme-stats.vercel.app/api/pin/?username=ilkeraltin&repo=react-ssr-news
-[3]: https://github-readme-stats.vercel.app/api/pin/?username=francisrod01&repo=nodejs-unit-testing-in-depth
-[4]: https://github-readme-stats.vercel.app/api/pin/?username=francisrod01&repo=RNwithoutExpo
-[5]: https://github-readme-stats.vercel.app/api/pin/?username=francisrod01&repo=wrangling_mongodb
+[1]: https://github.com/francisrod01
+[2]: http://bit.ly/2BjZ8wJ
+[3]: http://bit.ly/2rP1Ecn
+[10]: https://github.com/mui/material-ui
+[11]: https://github.com/francisrod01/wrangling_mongodb
+[12]: https://github.com/francisrod01/ng-commerce-app
+[13]: https://github.com/ilkeraltin/react-ssr-news
+[14]: https://github.com/francisrod01/react-graphql-with-apollo-client
