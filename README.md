@@ -1,4 +1,4 @@
-### Hi 👋, I'm Francis, a Software Engineer, AI & Machine Learning enthusiast.
+### Hi 👋, I'm Francis, a Software Developer, AI & Machine Learning enthusiast.
 #### Collaborating on tools that support 4M+ concurrent users.
 
 A proven track record with exposure to both front and back-end development:
@@ -19,7 +19,7 @@ A proven track record with exposure to both front and back-end development:
 ### Better score and contributors:
 
 * Angular boat renting ![Github workflow](https://github.com/francisrod01/ng-vessels/workflows/CI/badge.svg?branch=main)
-* JS Zoom clone ![GitHub contributors](https://img.shields.io/github/contributors/francisrod01/js-zoom-clone?label=js-zoom-clone&logo=github)
+* JS Zoom clone [![GitHub contributors](https://img.shields.io/github/contributors/francisrod01/js-zoom-clone?label=js-zoom-clone&logo=github)][15]
 * ReactNative without Expo ![GitHub contributors](https://img.shields.io/github/contributors/francisrod01/RNwithoutExpo?label=RNwithoutExpo&logo=react)
 * React Material UI [![Github contributors](https://img.shields.io/github/contributors/mui/material-ui?label=MaterialUI&logo=react)][10]
 * Python & MongoDB [![Github contributors](https://img.shields.io/github/contributors/francisrod01/wrangling_mongodb?label=Python_MongoDB&logo=python)][11]
@@ -50,3 +50,4 @@ Here are some ideas to get you started:
 [12]: https://github.com/francisrod01/ng-commerce-app
 [13]: https://github.com/ilkeraltin/react-ssr-news
 [14]: https://github.com/francisrod01/react-graphql-with-apollo-client
+[15]: https://github.com/francisrod01/js-zoom-clone
